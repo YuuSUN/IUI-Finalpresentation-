@@ -25,8 +25,8 @@ Dialog based interaction makes the learn process more natural in compare to GUI
   - Test skill level (which is stored in user profile)
 3. Emotional recognition
   - Short term impact: 
-    Positive emotion: Congratulate the user
-    Negative emotion: encourage the user
+    - Positive emotion: Congratulate the user
+    - Negative emotion: encourage the user
 4. Customize study plan
   - Preferred time to learn
 ## Core Techs 
