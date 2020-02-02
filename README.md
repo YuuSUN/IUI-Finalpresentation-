@@ -17,10 +17,41 @@ Dialog based interaction makes the learn process more natural in compare to GUI
 7. then concepts for context awareness were designed
 8. see 4.
 ## Basic Functions
+1. Active learning
+  - Asking for a word if you don’t know it.
+  - Listening to radio/podcasts
+2. Test learning effect
+  - Tests that aim to push your knowledge
+  - Test skill level (which is stored in user profile)
+3. Emotional recognition
+  - Short term impact: 
+    Positive emotion: Congratulate the user
+    Negative emotion: encourage the user
+4. Customize study plan
+  - Preferred time to learn
 ## Core Techs 
-## Exercise task 
+## Exercise task  ( complete concept for emotional recognition )
+Recognize if the person likes the thing that is currently presented by the assistant. Store that in the user profile.
+- Long term impact: Change the recommendations, actions and difficulty for tests based on emotion. 
+  - Positive emotion: keep your current learning style
+  - Negative emotion: change learning method. Also try to change the learning method every now and then and see what happens
+- Short term impact: Change your responses based on the emotion of the user.
 ## Special cases 
+- User Profile 
+  - Stores the current and past estimated skill levels based on test results.
+  - Stores average emotions 
+  - Based on the trajectory of the skill levels and average emotions, the learning method will be changed.
+    - Skill goes up: increase difficulty of tests
+    - Skill goes down: decrease difficulty of tests
+- Customize study plan
+  - set minimum time that you should learn per session
+  - set interval of learning sessions (e.g. daily, on Monday and Friday, weekly...)
 ## Vision 
+Environmental sensors and devices
+- Attention detection (via camera)
+- Buzzer for alarm (according to study plan, or if you don’t pay attention)
+- Preferred learning location detection
+- Reward mystery cookie box. (Destroys cookie in front of you if you don’t deserve it.）
 ## Reference
 [1] 语音交互的基本概念和设计实践  
 http://www.woshipm.com/pd/1039577.html  
