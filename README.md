@@ -15,7 +15,7 @@ German Helper is a voice assistant that is supposed to teach you the German lang
 Dialog based interaction makes the learn process more natural in compare to GUI 
 - Why is it used to learn   
   - Ubiquitous Learning  
-  German helper provides learners with information and interaction anytime and anywhere. There are two advantages. Firstly, in the era of lifelong learning you do not need a motivation to open it. On the contrary, you will open google map only when you have a motivation of finding the route. Secondly, you can take good use of small fragment of time to perform short productive activities. The main scenarios for voice use in the US are home (43%), car (30%), and road (19%)
+  German helper provides learners with information and interaction anytime and anywhere. There are two advantages. Firstly, in the era of lifelong learning you do not need a motivation to open it. On the contrary, you will open google map only when you have a motivation of finding the route. Secondly, you can make good use of small fragment of time to perform short productive activities. The main scenarios for voice use in the US are home (43%), car (30%), and road (19%)
 ## What did we do
 1. we have designed a basic concept of features
 2. we have designed the dialog model 
