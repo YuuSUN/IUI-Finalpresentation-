@@ -1,10 +1,13 @@
 # IUI_Final_Presentation
-  * [Overallintroduction](#Overallintroduction)
+  * [Overall introduction](#Overall-introduction)
   * [Motivation](#Motivation)
-  * [标题3](#标题3)
-        * [标题3.1](#标题3.1)
-        * [标题3.2](#标题3.2)
-  * [标题4](#标题4)
+  * [What did we do](#What-did-we-do)
+  * [Basic Functions](#Basic-Functions)
+  * [Core Techs](#Core-Techs)
+  * [Exercise task](#Exercise-task)
+  * [Special cases](#Special-cases)
+  * [Vision](#Vision)
+  * [Reference](#Reference)
 ## Overall introduction
 German Helper is a voice assistant that is supposed to teach you the German language in a “smart” way. The first idea that makes it “smart”, is that it is based on Voice User Interface, which is a human computer interaction mode centered on human intention and conversation. So you can learn German in a most natural way. The second would be emotional intelligence, which gives you relevant feedback that provides a long term learn incentive. The assistant will become your “personal” assistant, by gradually learning your preferences. 
 ## Motivation 
@@ -36,7 +39,8 @@ Dialog based interaction makes the learn process more natural in compare to GUI
 4. Customize study plan
   - Preferred time to learn
 ## Core Techs 
-## Exercise task  ( complete concept for emotional recognition )
+## Exercise task
+( complete concept for emotional recognition )
 Recognize if the person likes the thing that is currently presented by the assistant. Store that in the user profile.
 - Long term impact: Change the recommendations, actions and difficulty for tests based on emotion. 
   - Positive emotion: keep your current learning style
